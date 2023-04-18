@@ -1,6 +1,6 @@
 # Hi there, I'm Mohammad Motiur Rahman! 👋
 
-![Banner Image](https://photos.app.goo.gl/1zNxnSwPqxzSpXLV6)
+![Banner Image](https://ibb.co/ZMrvbBT)
 
 Welcome to my GitHub profile! I'm [YourName], a passionate developer and tech enthusiast who loves solving complex problems, learning new things, and making the world a better place through code.
 
