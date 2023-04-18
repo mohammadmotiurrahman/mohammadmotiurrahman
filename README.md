@@ -1,4 +1,4 @@
-# Hi there, I'm [Mohammad Motiur Rahman]! 👋
+# Hi there, I'm Mohammad Motiur Rahman! 👋
 
 ![Banner Image](https://photos.app.goo.gl/1zNxnSwPqxzSpXLV6)
 
